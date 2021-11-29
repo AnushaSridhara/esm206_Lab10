@@ -1,0 +1,23 @@
+---
+title: "ESM206_Lab10"
+author: "Anusha Sridhara"
+date: "11/29/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
+library(usethis)
+library(beepr)
+library(praise)
+library(cowsay)
+library(sf)
+library(paletteer)
+```
+
+```{r}
+
+```
+
